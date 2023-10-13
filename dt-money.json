@@ -1,0 +1,11 @@
+{
+    "transaction": [
+        {
+            "id": 1,
+            "description": "Salário",
+            "amount": 1000,
+            "type": "income",
+            "createdAt": "2023-10-13T11:57:29.748Z"
+        }
+    ]
+}
